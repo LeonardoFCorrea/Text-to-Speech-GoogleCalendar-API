@@ -9,7 +9,7 @@ This project was carried out by computer science students at URI-Erechim (Integr
 5° Run the app.py file: python app.py<br />
 6° Access the URL http://localhost:5000 to use the News AI<br />
 
-<h3>Bibliotecas utilizadas</h3>
+<h3>Libraries/Modules Used</h3>
 Para a execução deste projeto, algumas bibliotecas precisam ser instaladas. Segue a lista das bibliotecas e os comandos utilizados para instalá-las:<br />
 
 - Flask: pip install flask<br />
